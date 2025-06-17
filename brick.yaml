@@ -10,6 +10,8 @@ description: A Flutter feature module generator with folder structure and templa
 # followed by an optional build number (separated by a +).
 version: 0.1.0+1
 
+repository: https://github.com/shakhawat-khan/mason_brick.git
+
 # The following defines the environment for the current brick.
 # It includes the version of mason that the brick requires.
 environment:
